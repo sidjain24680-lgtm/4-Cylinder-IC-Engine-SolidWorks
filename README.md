@@ -1,6 +1,6 @@
 # 🔧 4-Cylinder IC Engine — SolidWorks CAD Assembly
 
-![Assembly Render](Images/Assembly-Render 1.png)
+![Assembly Render]([Images/Assembly-Render 1.png](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Assembly-Render%201.png))
 
 > A fully parametric 3D CAD model of a 4-cylinder internal combustion engine bottom-end assembly, designed from scratch in SolidWorks. Includes 6 individual part files and a complete assembly.
 
