@@ -1,6 +1,6 @@
 # 🔧 4-Cylinder IC Engine — SolidWorks CAD Assembly
 
-([Images/Assembly-Render 1.png](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Assembly-Render%201.png))
+([Assembly-Render](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Assembly-Render%201.png))
 
 > A fully parametric 3D CAD model of a 4-cylinder internal combustion engine bottom-end assembly, designed from scratch in SolidWorks. Includes 6 individual part files and a complete assembly.
 
@@ -47,7 +47,7 @@ The project focuses on:
 ## Assembly Preview
 
 ### Full Assembly
-![Full Assembly](images/assembly_render.png)
+([Assembly-Render](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Assembly-Render%201.png))
 
 ### Individual Parts
 
@@ -55,9 +55,9 @@ The project focuses on:
 |--------|-------------|------------|
 | ![Piston](images/piston.png) | ![Piston Ring](images/piston_ring.png) | ![Piston Pin](images/piston_pin.png) |
 
-| Connecting Rod | Connecting Rod Cap | Crankshaft |
+| Connecting Rod | Connecting Rod Cover | Crankshaft |
 |----------------|--------------------|------------|
-| ![Con Rod](images/connecting_rod.png) | ![Con Rod Cap](images/connecting_rod_cap.png) | ![Crankshaft](images/crankshaft.png) |
+| ![Con Rod](images/connecting_rod.png) | ![Con Rod Cover](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Connecting%20Cover.png)) | ![Crankshaft](images/crankshaft.png) |
 
 ---
 
