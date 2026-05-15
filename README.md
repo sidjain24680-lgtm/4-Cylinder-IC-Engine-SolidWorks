@@ -53,11 +53,11 @@ The project focuses on:
 
 | Piston | Piston Ring | Piston Pin |
 |--------|-------------|------------|
-| ![Piston](images/piston.png) | ![Piston Ring](images/piston_ring.png) | ![Piston Pin](images/piston_pin.png) |
+| ![Piston](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Piston.png) | ![Piston Ring](images/piston_ring.png) | ![Piston Pin](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Piston%20Shaft.png) |
 
 | Connecting Rod | Connecting Rod Cover | Crankshaft |
 |----------------|--------------------|------------|
-| ![Con Rod](images/connecting_rod.png) | ![Con Rod Cover](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Connecting%20Cover.png)) | ![Crankshaft](images/crankshaft.png) |
+| ![Con Rod](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Connecting%20Rod.png) | ![Con Rod Cover](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Connecting%20Cover.png)) | ![Crankshaft](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Crank%20Shaft.png)|
 
 ---
 
