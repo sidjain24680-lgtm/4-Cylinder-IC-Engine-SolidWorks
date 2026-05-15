@@ -1,6 +1,6 @@
 # 🔧 4-Cylinder IC Engine — SolidWorks CAD Assembly
 
-([Assembly-Render](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Assembly-Render%201.png)
+![Assembly-Render](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Assembly-Render%201.png)
 
 > A fully parametric 3D CAD model of a 4-cylinder internal combustion engine bottom-end assembly, designed from scratch in SolidWorks. Includes 6 individual part files and a complete assembly.
 
@@ -47,17 +47,17 @@ The project focuses on:
 ## Assembly Preview
 
 ### Full Assembly
-([Assembly-Render](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Assembly-Render%201.png)
+![Assembly-Render](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Assembly-Render%201.png)
 
 ### Individual Parts
 
 | Piston | Piston Ring | Piston Pin |
 |--------|-------------|------------|
-| ![Piston](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Piston.png) | ![Piston Ring]([images/piston_ring.png](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Piston%20Ring.png)) | ![Piston Pin](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Piston%20Shaft.png) |
+| ![Piston](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Piston.png) | ![Piston Ring](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Piston%20Ring.png) | ![Piston Pin](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Piston%20Shaft.png) |
 
 | Connecting Rod | Connecting Rod Cover | Crankshaft |
 |----------------|--------------------|------------|
-| ![Con Rod](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Connecting%20Rod.png) | ![Con Rod Cover](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Connecting%20Cover.png)) | ![Crankshaft](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Crank%20Shaft.png)|
+| ![Con Rod](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Connecting%20Rod.png) | ![Con Rod Cover](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Connecting%20Cover.png) | ![Crankshaft](https://github.com/sidjain24680-lgtm/4-Cylinder-IC-Engine-SolidWorks/blob/main/Images/Crank%20Shaft.png)|
 
 ---
 
