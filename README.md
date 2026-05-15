@@ -134,9 +134,8 @@ The project focuses on:
 **Siddharth Jain**
 Mechanical Engineering Student | CAD & Simulation and Manufacturing Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
-
+[![LinkedIn](https://www.linkedin.com/in/siddharth-jain-iiitdmj/)
+[![GitHub](https://github.com/sidjain24680-lgtm)
 ---
 
 *If you found this useful, feel free to ⭐ star this repo!*
